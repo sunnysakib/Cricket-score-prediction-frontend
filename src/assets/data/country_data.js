@@ -8,7 +8,10 @@ const country_data = [
     { id: 7, name: 'West Indies', flag: 'https://flagcdn.com/ec.svg' },
     { id: 8, name: 'India', flag: 'https://flagcdn.com/in.svg' },
     { id: 9, name: 'Bangladesh', flag: 'https://flagcdn.com/bd.svg' },
-    { id: 10, name: 'Afghanistan', flag: 'https://flagcdn.com/af.svg' }
+    { id: 10, name: 'Afghanistan', flag: 'https://flagcdn.com/af.svg' },
+    { id: 11, name: 'Zimbabwe', flag: 'https://flagcdn.com/zw.svg' },
+    { id: 12, name: 'Ireland', flag: 'https://flagcdn.com/ie.svg' },
+
 ];
 
 export default country_data

@@ -65,7 +65,7 @@ const NavBar = () => {
   return (
     <div className="">
       <Navbar className="max-w-full bg-none border-none rounded-none py-2 px-4 lg:px-8 lg:py-4">
-        <div className="mx-10 flex items-center justify-between text-blue-gray-900">
+        <div className="flex items-center justify-between text-blue-gray-900">
           <Typography
             as="a"
             href="#"
