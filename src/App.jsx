@@ -83,10 +83,7 @@ function App() {
     }
   };
 
-  // useEffect(() => {
-
-  // });
-  // style={{backgroundImage: `url(${hero1})`}} className="bg-contain bg-no-repeat h-[600px] "
+  
   return (
     <div className="relative">
       <NavBar />
